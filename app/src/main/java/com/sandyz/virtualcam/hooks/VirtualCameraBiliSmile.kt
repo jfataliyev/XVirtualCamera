@@ -40,6 +40,7 @@ class VirtualCameraBiliSmile : IHook {
         "com.smile.gifmaker",
         "com.tencent.mm",
         "com.tencent.mobileqq",
+        "com.jetscooters", // phone-bridge: JET scooter app (old Camera API path)
     )
 
     override fun init(cl: ClassLoader?) {

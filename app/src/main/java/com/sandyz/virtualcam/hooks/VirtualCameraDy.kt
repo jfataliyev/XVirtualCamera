@@ -32,6 +32,7 @@ class VirtualCameraDy : IHook {
         "com.ss.android.ugc.aweme",
         "tv.danmaku.bili",
         "com.tencent.mm",
+        "com.jetscooters", // phone-bridge: JET scooter app (Camera2 / CameraX path)
         )
 
     override fun init(cl: ClassLoader?) {
